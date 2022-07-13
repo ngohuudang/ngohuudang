@@ -1,7 +1,7 @@
 ### Hi 👋 , I'm Ngo Huu Dang
 
 - I’m currently a Junior at Ho Chi Minh University of Science
-- I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified data engineer
+- I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified data scientist
 
 
 ### Connect with me:
